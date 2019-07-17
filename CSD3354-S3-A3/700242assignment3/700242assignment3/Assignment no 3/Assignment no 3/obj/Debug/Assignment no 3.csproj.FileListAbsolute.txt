@@ -1,0 +1,7 @@
+U:\Users\700242\CSD3354-S3-A3\700242assignment3\700242assignment3\Assignment no 3\Assignment no 3\bin\Debug\Assignment no 3.exe.config
+U:\Users\700242\CSD3354-S3-A3\700242assignment3\700242assignment3\Assignment no 3\Assignment no 3\bin\Debug\Assignment no 3.exe
+U:\Users\700242\CSD3354-S3-A3\700242assignment3\700242assignment3\Assignment no 3\Assignment no 3\bin\Debug\Assignment no 3.pdb
+U:\Users\700242\CSD3354-S3-A3\700242assignment3\700242assignment3\Assignment no 3\Assignment no 3\obj\Debug\Assignment no 3.csprojAssemblyReference.cache
+U:\Users\700242\CSD3354-S3-A3\700242assignment3\700242assignment3\Assignment no 3\Assignment no 3\obj\Debug\Assignment no 3.csproj.CoreCompileInputs.cache
+U:\Users\700242\CSD3354-S3-A3\700242assignment3\700242assignment3\Assignment no 3\Assignment no 3\obj\Debug\Assignment no 3.exe
+U:\Users\700242\CSD3354-S3-A3\700242assignment3\700242assignment3\Assignment no 3\Assignment no 3\obj\Debug\Assignment no 3.pdb
